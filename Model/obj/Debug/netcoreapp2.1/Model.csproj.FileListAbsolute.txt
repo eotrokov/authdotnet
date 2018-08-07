@@ -1,0 +1,9 @@
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/bin/Debug/netcoreapp2.1/Model.deps.json
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/bin/Debug/netcoreapp2.1/Model.dll
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/bin/Debug/netcoreapp2.1/Model.pdb
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/obj/Debug/netcoreapp2.1/Model.csprojAssemblyReference.cache
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/obj/Debug/netcoreapp2.1/Model.csproj.CoreCompileInputs.cache
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/obj/Debug/netcoreapp2.1/Model.AssemblyInfoInputs.cache
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/obj/Debug/netcoreapp2.1/Model.AssemblyInfo.cs
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/obj/Debug/netcoreapp2.1/Model.dll
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Model/obj/Debug/netcoreapp2.1/Model.pdb

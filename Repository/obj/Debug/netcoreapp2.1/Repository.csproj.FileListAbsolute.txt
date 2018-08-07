@@ -1,0 +1,12 @@
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/bin/Debug/netcoreapp2.1/Repository.deps.json
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/bin/Debug/netcoreapp2.1/Repository.dll
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/bin/Debug/netcoreapp2.1/Repository.pdb
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/bin/Debug/netcoreapp2.1/Model.dll
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/bin/Debug/netcoreapp2.1/Model.pdb
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/obj/Debug/netcoreapp2.1/Repository.csprojAssemblyReference.cache
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/obj/Debug/netcoreapp2.1/Repository.csproj.CoreCompileInputs.cache
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/obj/Debug/netcoreapp2.1/Repository.AssemblyInfoInputs.cache
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/obj/Debug/netcoreapp2.1/Repository.AssemblyInfo.cs
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/obj/Debug/netcoreapp2.1/Repository.csproj.CopyComplete
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/obj/Debug/netcoreapp2.1/Repository.dll
+/Users/evgenijotrokov/RiderProjects/WebApplication1/Repository/obj/Debug/netcoreapp2.1/Repository.pdb
